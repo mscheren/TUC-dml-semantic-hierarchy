@@ -26,4 +26,10 @@ The method implemented here is based on the one by Barz and Denzler from the fol
 > Björn Barz and Joachim Denzler.  
 > IEEE Winter Conference on Applications of Computer Vision (WACV), 2019.
 
+The CIFAR-100 dataset was collected by Alex Krizhevsky, Vinod Nair and Geoffrey Hinton. Please reference:
+
+> [**Learning Multiple Layers of Features from Tiny Images.**][2] 
+> Alex Krizhevsky and Geoffrey Hinton.
+> Citeseer, 2009.
+
 In case of any issues or questions, please contact marcel.scherenberg@s2020.tu-chemnitz.de.
